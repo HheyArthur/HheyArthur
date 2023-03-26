@@ -4,9 +4,9 @@
 <div>
     <h2>👨‍💻 Sobre mim</h2>
     <img align="right" height="400px" src="./assets/pczin.gif">
-     <p>📌Prazer, me chamo Arthur Guimarães, tenho 23 anos e sou natual de Recife mas atualmente moro em São Paulo Capital, venho estudando progamação desde agosto de 2022, com foco em me tornar um Desenvolvedor Front-End.</p>
-    <p>💆🏽‍♂️ Estou sempre buscando conhecimento diariamente. Eu posso aprender rapidamente o que é necessário para manter o processo em andamento. Acredito que sempre precisamos aprender, pensar fora da caixa e sair da nossa zona de conforto.</p>  
-    <p>🧬 Soft Skills: Trabalho em equipe, proativo, comunicativo, pensamento criativo.</p>
+     <p>📌Prazer, me chamo Arthur Guimarães, tenho 23 anos e sou natural de Recife, mas atualmente moro na capital de São Paulo. Venho estudando programação desde agosto de 2022, com o objetivo de me tornar um Desenvolvedor Front-End.</p>
+    <p>💆🏽‍♂️ Busco constantemente aprender e me desafiar para evoluir em minha vida. Tenho facilidade em me adaptar a novos ambientes e aprender novos conceitos necessários para meu desenvolvimento. Acredito que a zona de conforto deve ser deixada de lado para alcançar objetivos cada vez maiores.</p>  
+    <p>🧬 Soft Skills: Trabalho em equipe, adaptavel, comunicativo, criativo.</p>
     <div>
     
  <h2>📚Tecnologias que estou estudando atualmente</h2>
@@ -23,18 +23,18 @@
  
  <br>
  
-  <h2 align="center">🔍 Onde me encontrar 🔍</h2>
+  <h2 align="center">🔍Onde me encontrar </h2>
   
-<div> 
+ <div align="center">
   <a  href="https://github.com/HheyArthur" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthurguimaraes087@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-guimarães-35912816a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <div>
-   <a href="https://github.com/HheyArthur">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HheyArthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HheyArthur&layout=compact&langs_count=6&theme=dark"/>
-
-</div>
+ <div align="center">
+    <a href="https://github.com/HheyArthur">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=HheyArthur&show_icons=true&theme=dark">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HheyArthur&&layout=compact&theme=dark"/>
+      <img height="165em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HheyArthur&theme=dark">
+     </div>
 
   
   ![Snake animation](https://github.com/HheyArthur/HheyArthur/blob/output/github-contribution-grid-snake.svg)
